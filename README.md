@@ -4,4 +4,4 @@
 
 📫 reach me kennedyvaishnavi@gmail.com
 
-🌱 In a nutshell, I am a Software developer with AI expertise and AWS cloud certified machine learning speciality.
+🌱 In a nutshell, I am a Software developer with AI/ML expertise and AWS cloud certified machine learning speciality.
