@@ -1,4 +1,3 @@
-<!---
 - 👋 Hi, I’m @vaishnavikennedy
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning AI 
@@ -11,4 +10,3 @@
   intelligence based technology and core developments. Currently working in an AI based job.
 
 - In a nutshell, Software developer with AI expertise and AWS cloud certified machine learning speciality.
---->
